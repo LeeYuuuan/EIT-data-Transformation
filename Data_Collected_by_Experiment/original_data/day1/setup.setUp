@@ -1,0 +1,45 @@
+Setup type: EITsystem
+Version: 2
+Name: setup
+Date: 1706693790910
+Device: 01-0019-01AE-0D08-03-0000-008D-00BA-00B4-0000-0000
+Firmware: 0000-0000-0000,0011-001A-000C
+Software: Sciospec ISX3 - 202206_13
+NEitModusEnabled: false
+AUXDataEnabled: false
+AUXDataPlotEnabled: false
+TimeDataEnabled: false
+TimeDataPlotEnabled: false
+EitDataPlotEnabled: false
+2ndStimulatorEnabled: false
+EIT
+CurrentSource: 1
+MeasureConfig: -1
+ExtPortChannel: -1
+Gain: 1.0
+ADCRange: 1
+MeasureMode: 1
+Boundary: 1
+SwitchType: 1
+MeasurementChannelsIndependentFromInjectionPattern: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ChannelOrder: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+CurrentExcitationPattern: -1
+1, 2, 1,
+2, 3, 1,
+3, 4, 1,
+4, 5, 1,
+5, 6, 1,
+6, 7, 1,
+7, 8, 1,
+8, 9, 1,
+9, 10, 1,
+10, 11, 1,
+11, 12, 1,
+12, 13, 1,
+13, 14, 1,
+14, 15, 1,
+15, 16, 1,
+16, 1, 1
+Settings: -1.0,0.0,1000.0,1.0,0.0,0.0,1.0,1.0,0.0
+50000.0, 50000.0, 1.0, 0.0, 1.0, 0.5, 20.0, 0.0, 0.0, 0.0
+
